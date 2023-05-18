@@ -29,11 +29,12 @@
 
 <p>Stats:</p>
 <a href="https://stackoverflow.com/users/11374183/kakiz">
-<img height="195" src="https://stackoverflow-card.vercel.app/?userID=11374183&theme=stackoverflow-dark"/>
+<img height="150" src="https://stackoverflow-card.vercel.app/?userID=11374183&theme=stackoverflow-dark"/>
 </a>
 
 <picture>
 <source
+  height="150"
   srcset="https://github-readme-stats.vercel.app/api?username=byttar&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
@@ -41,7 +42,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=byttar&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=byttar&show_icons=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=byttar&show_icons=true&count_private=true" />
 </picture>
 </br>
 </br>
