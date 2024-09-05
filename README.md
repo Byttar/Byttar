@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<span>I'm Gabriel and I've been working as a programmer for the last 4 years</span>
+<span>I'm Gabriel and I've been working as a programmer for the last 5 years</span>
 
-<p>during this time I've worked mostly with the following technologies:</p>
+<p>During this time I've worked mostly with the following technologies:</p>
 <span>
     <img src="https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=React&logoColor=white" target="_blank"/>
     <img src="https://img.shields.io/badge/nodeJS-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/react%20native-darkblue?style=for-the-badge&logo=react&logoColor=white" target="_blank"/>
 </span></br></br>
 
-<p>Random stack i know:</p>
+<p>Other technologies i've used through years:</p>
 <span>
     <img src="https://img.shields.io/badge/webpack-turquoise?style=for-the-badge&logo=webpack&logoColor=white" />
     <img src="https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vue.js&logoColor=white" target="_blank"/>
