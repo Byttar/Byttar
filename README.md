@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<span>I'm Gabriel and I've been working as a programmer for the last 5 years</span>
+<span>I'm Gabriel and I've been working as a programmer for the last 6 years</span>
 
 <p>During this time I've worked mostly with the following technologies:</p>
 <span>
