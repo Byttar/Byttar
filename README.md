@@ -26,24 +26,6 @@
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </span></br></br>
 
-
-<p>Stats:</p>
-<a href="https://stackoverflow.com/users/11374183/kakiz">
-<img height="150" src="https://stackoverflow-card.vercel.app/?userID=11374183&theme=stackoverflow-dark"/>
-</a>
-
-<picture>
-<source
-  height="150"
-  srcset="https://github-readme-stats.vercel.app/api?username=byttar&show_icons=true&theme=dark&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=byttar&show_icons=true&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=byttar&show_icons=true&count_private=true" />
-</picture>
 </br>
 </br>
 
